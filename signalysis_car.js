@@ -1252,7 +1252,7 @@ if (reversed == null) { reversed = false; }
 		this.button_46.addEventListener("click", fl_ClickToGoToWebPage_106);
 		
 		function fl_ClickToGoToWebPage_106() {
-			window.open("https://www.signalysis.com/industries/automotive/iqc-sunroof-system", "_blank");
+			window.open("https://www.signalysis.com/industries/automotive/iqc-sunroof-test-system", "_blank");
 		}
 	}
 
