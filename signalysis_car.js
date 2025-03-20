@@ -1054,7 +1054,7 @@ if (reversed == null) { reversed = false; }
 		this.button_10.addEventListener("click", fl_ClickToGoToWebPage_91);
 		
 		function fl_ClickToGoToWebPage_91() {
-			window.open("https://www.signalysis.com/industries/automotive/iqc-steering-column-test-systems", "_blank");
+			window.open("https://www.signalysis.com/industries/automotive/iqc-steering-column-test-system", "_blank");
 		}
 		
 		/* Click to Go to Web Page
