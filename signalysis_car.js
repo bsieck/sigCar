@@ -933,7 +933,7 @@ if (reversed == null) { reversed = false; }
 		this.button_31.addEventListener("click", fl_ClickToGoToWebPage_82);
 		
 		function fl_ClickToGoToWebPage_82() {
-			window.open("https://www.signalysis.com/industries/automotive/brake-pads", "_blank");
+			window.open("https://www.signalysis.com/ndt-systems/brake-pad-quality", "_blank");
 		}
 		
 		/* Click to Go to Web Page
@@ -998,7 +998,7 @@ if (reversed == null) { reversed = false; }
 		this.button_8.addEventListener("click", fl_ClickToGoToWebPage_87);
 		
 		function fl_ClickToGoToWebPage_87() {
-			window.open("https://www.signalysis.com/industries/automotive/iqc-hvac-production-systems", "_blank");
+			window.open("https://www.signalysis.com/industries/automotive/iqc-hvac-production-test-systems", "_blank");
 		}
 		
 		/* Click to Go to Web Page
